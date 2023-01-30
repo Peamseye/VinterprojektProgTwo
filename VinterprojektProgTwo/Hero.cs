@@ -1,7 +1,7 @@
 
 public class Hero 
 {
-public string Name = "hero";
+public string Name;
 private int Hp = 100;
 
 public int Speed = 50;
