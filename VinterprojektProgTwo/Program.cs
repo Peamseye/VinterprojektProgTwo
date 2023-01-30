@@ -7,6 +7,6 @@ Enemy e1 = new Enemy();
 Console.ReadLine();
 
 h1.Name = Console.ReadLine();
-Console.WriteLine(h1.Name);
+Console.WriteLine($"Your hero's name is {h1.Name}.");
 
 Console.ReadLine();
