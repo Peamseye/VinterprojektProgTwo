@@ -17,6 +17,7 @@ Console.WriteLine("1. Sword     2. Axe     3. Spear     4. Crossbow");
 
 Console.ReadLine();
 
-Console.WriteLine($"{h1.Name} has {h1.GetHp} HP.");
+
+Console.WriteLine($"{h1.Name} has - HP.");
 
 Console.ReadLine();
