@@ -31,5 +31,8 @@ public int GetHp() {
 return Hp;
 }
 
+public void attack() {
 
+    
+}
 }
